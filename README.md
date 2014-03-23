@@ -1,4 +1,4 @@
-SQL Script runner
+JAVA SQL Script runner
 =================
 
 Loading example:

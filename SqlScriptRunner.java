@@ -2,9 +2,6 @@
  * @author David Kaya
  * @version 0.2
  */
-
-package SqlScriptRunner;
-
 import java.io.IOException;
 import java.io.LineNumberReader;
 import java.io.Reader;

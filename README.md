@@ -1,4 +1,4 @@
-SQL-Script-runner
+SQL Script runner
 =================
 
 Loading example:
